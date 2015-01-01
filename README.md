@@ -8,7 +8,3 @@ Author : *Jean-Matthieu COULON
 TODO : * encrypted ROMs support
        * check boundaries of arrays
        * better syntax checking
-
-
-NOTE:- This is orignally a fork (See Authors & README file) of https://code.google.com/p/gngeo/
-
